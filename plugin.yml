@@ -1,0 +1,8 @@
+name: RPointAPIScore
+main: Ifera\RPointAPIScore\Main
+api: [3.0.0]
+version: 1.0.0
+author: Ifera
+editor: KhanggTrann
+description: A plugin implementing some basic tags for ScoreHud.
+depend: ["ScoreHud", "RPointAPI"]
